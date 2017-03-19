@@ -3,6 +3,7 @@ package snakegame;
 import java.util.Scanner;
 
 public class SnakeGame {
+    
 	private final int bordhoogte = 10;
 	private final int bordbreedte = 10;
 	private int size = 1;
